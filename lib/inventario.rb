@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "Inventario/version"
+require "inventario/version"
 
 module Inventario
   class Error < StandardError; end

@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
-require_relative "lib/Inventario/version"
+require_relative "lib/inventario/version"
+
 
 Gem::Specification.new do |spec|
-  spec.name          = "Inventario"
-  spec.version       = Inventario::VERSION
+  spec.name          = "inventario"
+  spec.version       = inventario::VERSION
   spec.authors       = ["TODO: Write your name"]
   spec.email         = ["TODO: Write your email address"]
 
